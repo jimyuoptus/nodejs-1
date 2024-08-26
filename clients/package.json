@@ -1,0 +1,26 @@
+{
+  "name": "clients",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "10.4.20",
+    "axios": "1.7.4",
+    "next": "14.2.6",
+    "postcss": "8.4.41",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "tailwindcss": "3.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "22.5.0",
+    "@types/react": "18.3.4",
+    "typescript": "5.5.4"
+  }
+}
