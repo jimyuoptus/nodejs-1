@@ -1,7 +1,9 @@
 import mongoose from "mongoose";
-import { app } from "./app";
 
-const port = 3001;
+import { app } from "./app";
+require("dotenv").config();
+
+const port = process.env.PORT || 3000;
 const start = async () => {
   try {
     await mongoose.connect("mongodb://localhost:27017/");

@@ -1,13 +1,5 @@
 import mongoose, { ObjectId } from "mongoose";
 
-
-// interface BookDoc extends mongoose.Document {
-//   name: string;
-//   genre: string;
-//   price: number;
-//   author_id: ObjectId;
-// }
-
 const bookSchema = new mongoose.Schema(
   {
     id: { type: String },

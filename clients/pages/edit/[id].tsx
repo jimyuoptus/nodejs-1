@@ -28,7 +28,6 @@ export default function Book({ data }: { data: BookAttrs }) {
   };
 
   const handlePriceChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    // const priceValue = parseFloat(event.target.value);
     setPrice(event.target.value);
   };
 
