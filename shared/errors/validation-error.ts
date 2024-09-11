@@ -11,10 +11,5 @@ export class RequestValidationError extends  ErrorBase {
   getError(): { message: string; field?: string } {
     const errors = this.errors.map((err: ValidationError) => `${err.msg}`);
     return { message: errors.join("<br/>") };
-
-    // return this.errors.reduce((err) => {
-    //   return `${err.msg}`;
-    // });
-    // throw new Error("Method not implemented.");
   }
 }

@@ -1,8 +1,24 @@
-import mongoose from "mongoose";
+import { model, Schema, Model, Document } from "mongoose";
+import { AuthorAttrs } from "../../shared/models/author";
 
-const authorSchema = new mongoose.Schema({
+interface AuthorModel extends Model<AuthorDoc> {
+  createNewAuthor(book: AuthorAttrs): AuthorDoc;
+}
+
+interface AuthorDoc extends Document {
+  name: string;
+  age: string;
+}
+
+const authorSchema = new Schema({
   name: { type: String, require: true },
   age: { type: String, required: true },
 });
 
-export const Book = mongoose.model("authors", authorSchema);
+const Author = model<AuthorDoc, AuthorModel>("authors", authorSchema);
+
+authorSchema.statics.createNewAuthor = (author: AuthorAttrs) => {
+  return new Author(author);
+};
+
+export { Author };

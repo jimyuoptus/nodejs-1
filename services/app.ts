@@ -1,4 +1,5 @@
-import express, { Request, Response, NextFunction } from "express";
+import express from "express";
+import "express-async-errors";
 import { json } from "body-parser";
 import cors from "cors";
 import { bookRouter } from "./routes/books";
@@ -13,6 +14,5 @@ app.use(bookRouter);
 app.use(signUpRouter);
 
 app.use(errorHandler);
-
 
 export { app };
