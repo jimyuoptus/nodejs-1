@@ -1,0 +1,1940 @@
+{
+    "layout": {
+        "sm": {
+            "padding": {
+                "top": "v-p-large-top",
+                "bottom": "v-p-normal-bottom"
+            }
+        },
+        "md": {
+            "padding": {
+                "top": "v-p-large-top",
+                "bottom": "v-p-normal-bottom"
+            }
+        },
+        "la": {
+            "padding": {
+                "top": "v-p-large-top",
+                "bottom": "v-p-normal-bottom"
+            }
+        }
+    },
+    "planId": null,
+    "cards": [
+        {
+            "layout": null,
+            "brand": "Optus",
+            "deviceName": "Optus X Lite 4",
+            "price": 49,
+            "priceText": "Price",
+            "duration": "Includes SIM",
+            "durationMonthToMonth": "Includes SIM",
+            "productTileImage": {
+                "src": {
+                    "original": "/content/dam/optus/images/shop/prepaid/phones/optus/x-lite-4/front-back-listings.png/renditions/version-1698380438219/original.png",
+                    "large": "/content/dam/optus/images/shop/prepaid/phones/optus/x-lite-4/front-back-listings.png/renditions/version-1698380438219/original.png",
+                    "medium": "/content/dam/optus/images/shop/prepaid/phones/optus/x-lite-4/front-back-listings.png/renditions/version-1698380438219/original.png",
+                    "small": "/content/dam/optus/images/shop/prepaid/phones/optus/x-lite-4/front-back-listings.png/renditions/version-1698380438219/original.png"
+                },
+                "fileReference": "/content/dam/optus/images/shop/prepaid/phones/optus/x-lite-4/front-back-listings.png",
+                "mobileReverse": false,
+                "wrapperClass": "cq-dd-image",
+                "assetCategory": [
+                    "optus:catalog/devices/images/product-tile-image",
+                    "optus:catalog/devices/images/feature-tile-image"
+                ]
+            },
+            "featureImage": {
+                "src": {
+                    "original": "/content/dam/optus/images/shop/prepaid/phones/optus/x-lite-4/front-back-listings.png/renditions/version-1698380438219/original.png",
+                    "large": "/content/dam/optus/images/shop/prepaid/phones/optus/x-lite-4/front-back-listings.png/renditions/version-1698380438219/original.png",
+                    "medium": "/content/dam/optus/images/shop/prepaid/phones/optus/x-lite-4/front-back-listings.png/renditions/version-1698380438219/original.png",
+                    "small": "/content/dam/optus/images/shop/prepaid/phones/optus/x-lite-4/front-back-listings.png/renditions/version-1698380438219/original.png"
+                },
+                "fileReference": "/content/dam/optus/images/shop/prepaid/phones/optus/x-lite-4/front-back-listings.png",
+                "mobileReverse": false,
+                "wrapperClass": "cq-dd-image",
+                "assetCategory": [
+                    "optus:catalog/devices/images/product-tile-image",
+                    "optus:catalog/devices/images/feature-tile-image"
+                ]
+            },
+            "badgeIconClass": null,
+            "productBadge": "RRP $59",
+            "tileWidth": "3",
+            "compare": "Compare",
+            "internalMemory": [
+                "128MB"
+            ],
+            "color": [
+                "Anthracite"
+            ],
+            "colour": [
+                {
+                    "hex": "#383e42",
+                    "name": "Dark Grey"
+                }
+            ],
+            "hexColor": [
+                "#383e42"
+            ],
+            "operatingSystem": [
+                "Mocor"
+            ],
+            "detailLink": "/prepaid/phones/optus/x-lite-4",
+            "splashProof": "No",
+            "memoryCardSlot": "No",
+            "outrightPrice": null,
+            "dnavDeviceSubsidizedCheck": false,
+            "dnavSubsidizedText": null,
+            "prepaid": true,
+            "ctaText": null,
+            "networkSpeed": null,
+            "badges": [],
+            "outrightDevice": false,
+            "shortDisclaimer": "",
+            "sticker": [
+                {
+                    "src": {
+                        "original": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png",
+                        "large": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png",
+                        "medium": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png",
+                        "small": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png"
+                    },
+                    "fileReference": "/content/dam/optus/images/shop/stickers/4gplus.png",
+                    "alt": "4G Plus icon",
+                    "mobileReverse": false,
+                    "wrapperClass": "cq-dd-image",
+                    "assetCategory": [
+                        "optus:catalog/devices/images/sticker-image"
+                    ]
+                }
+            ],
+            "featureProduct": false,
+            "hideLeasingBadge": true,
+            "leasingBadgeText": "",
+            "badgeColor": null,
+            "fontColor": null,
+            "Newest": true,
+            "Best Selling": false,
+            "On Sale": false,
+            "displayBrand": true,
+            "specs": [
+                {
+                    "title": "Operating System",
+                    "value": "<p>Proprietary&nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Dimensions",
+                    "value": "122 x 51 x 14.45mm"
+                },
+                {
+                    "title": "Weight",
+                    "value": "71"
+                },
+                {
+                    "title": "Processor",
+                    "value": "<p>Single Core&nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Resolution",
+                    "value": "VGA (0.3MP)"
+                },
+                {
+                    "title": "Screen Size",
+                    "value": "<p>2.4&amp;quot; QVGA , TFT TN 320 x 240 pixels&nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Internal Memory",
+                    "value": "<p>128Mb (approx. 90Mb available to user)&nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "External Memory",
+                    "value": "<p>MicroSD (up to 128Gb)<br />\r\nMicroSD card sold separately.&nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Video Recording",
+                    "value": "0.3MP"
+                },
+                {
+                    "title": "Optus Pay enabled",
+                    "value": "N/A"
+                },
+                {
+                    "title": "VoLTE Enabled",
+                    "value": "Yes"
+                },
+                {
+                    "title": "GPS",
+                    "value": "No"
+                },
+                {
+                    "title": "NFC",
+                    "value": "No"
+                },
+                {
+                    "title": "RAM",
+                    "value": "64Mb"
+                },
+                {
+                    "title": "Connectivity",
+                    "value": "<p>WiFi Bands: N/A<br />\r\nWiFi Hotspot: N/A<br />\r\nBluetooth Version: 5.1<br />\r\nGPS: No<br />\r\nOther sensors: No&nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Colour",
+                    "value": "Dark Grey"
+                },
+                {
+                    "title": "Rear Facing Camera",
+                    "value": "Yes"
+                },
+                {
+                    "title": "Rear Facing Camera Megapixels",
+                    "value": "VGA (0.3MP)"
+                },
+                {
+                    "title": "Front Facing Camera",
+                    "value": "No"
+                },
+                {
+                    "title": "Front Facing Camera Megapixels",
+                    "value": "N/A"
+                },
+                {
+                    "title": "3G Band",
+                    "value": "850/900/1900/2100"
+                },
+                {
+                    "title": "4G Band",
+                    "value": "B1/B3/B7/B8/B28"
+                },
+                {
+                    "title": "SIM Type",
+                    "value": "Micro SIM"
+                },
+                {
+                    "title": "Battery",
+                    "value": "<p>1000mAh* </p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p>*All battery life claims are approximate. Actual battery performance will vary and depends on many factors, including signal strength, network and device settings, temperature, battery condition, and usage patterns.</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Audio Formats",
+                    "value": "MIDI/AMR/WMA/MP3/AAC/ADPCM"
+                },
+                {
+                    "title": "Video Formats",
+                    "value": "MPEG4/MJPEG/H.264/H.263"
+                }
+            ],
+            "mtcs": [],
+            "specification": null,
+            "hideCompare": false
+        },
+        {
+            "layout": null,
+            "brand": "Optus",
+            "deviceName": "Optus X Start 4",
+            "price": 59,
+            "priceText": "Price",
+            "duration": "Includes SIM",
+            "durationMonthToMonth": "Includes SIM",
+            "productTileImage": {
+                "src": {
+                    "original": "/content/dam/optus/images/shop/prepaid/phones/optus/x-start-4/back-front-listings.png/renditions/version-1706495544218/original.png",
+                    "large": "/content/dam/optus/images/shop/prepaid/phones/optus/x-start-4/back-front-listings.png/renditions/version-1706495544218/original.png",
+                    "medium": "/content/dam/optus/images/shop/prepaid/phones/optus/x-start-4/back-front-listings.png/renditions/version-1706495544218/original.png",
+                    "small": "/content/dam/optus/images/shop/prepaid/phones/optus/x-start-4/back-front-listings.png/renditions/version-1706495544218/original.png"
+                },
+                "fileReference": "/content/dam/optus/images/shop/prepaid/phones/optus/x-start-4/back-front-listings.png",
+                "mobileReverse": false,
+                "wrapperClass": "cq-dd-image",
+                "assetCategory": [
+                    "optus:catalog/devices/images/product-tile-image",
+                    "optus:catalog/devices/images/feature-tile-image"
+                ]
+            },
+            "featureImage": {
+                "src": {
+                    "original": "/content/dam/optus/images/shop/prepaid/phones/optus/x-start-4/back-front-listings.png/renditions/version-1706495544218/original.png",
+                    "large": "/content/dam/optus/images/shop/prepaid/phones/optus/x-start-4/back-front-listings.png/renditions/version-1706495544218/original.png",
+                    "medium": "/content/dam/optus/images/shop/prepaid/phones/optus/x-start-4/back-front-listings.png/renditions/version-1706495544218/original.png",
+                    "small": "/content/dam/optus/images/shop/prepaid/phones/optus/x-start-4/back-front-listings.png/renditions/version-1706495544218/original.png"
+                },
+                "fileReference": "/content/dam/optus/images/shop/prepaid/phones/optus/x-start-4/back-front-listings.png",
+                "mobileReverse": false,
+                "wrapperClass": "cq-dd-image",
+                "assetCategory": [
+                    "optus:catalog/devices/images/product-tile-image",
+                    "optus:catalog/devices/images/feature-tile-image"
+                ]
+            },
+            "badgeIconClass": null,
+            "productBadge": "RRP $79",
+            "tileWidth": "3",
+            "compare": "Compare",
+            "internalMemory": [
+                "32GB"
+            ],
+            "color": [
+                "Black"
+            ],
+            "colour": [
+                {
+                    "hex": "#000000",
+                    "name": "Black"
+                }
+            ],
+            "hexColor": [
+                "#000000"
+            ],
+            "operatingSystem": [
+                "Android 13 (Go Edition)"
+            ],
+            "detailLink": "/prepaid/phones/optus/x-start-4",
+            "splashProof": "No",
+            "memoryCardSlot": "No",
+            "outrightPrice": null,
+            "dnavDeviceSubsidizedCheck": false,
+            "dnavSubsidizedText": null,
+            "prepaid": true,
+            "ctaText": null,
+            "networkSpeed": null,
+            "badges": [],
+            "outrightDevice": false,
+            "shortDisclaimer": "",
+            "sticker": [
+                {
+                    "src": {
+                        "original": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png",
+                        "large": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png",
+                        "medium": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png",
+                        "small": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png"
+                    },
+                    "fileReference": "/content/dam/optus/images/shop/stickers/4gplus.png",
+                    "alt": "4G Plus icon",
+                    "mobileReverse": false,
+                    "wrapperClass": "cq-dd-image",
+                    "assetCategory": [
+                        "optus:catalog/devices/images/sticker-image"
+                    ]
+                }
+            ],
+            "featureProduct": false,
+            "hideLeasingBadge": true,
+            "leasingBadgeText": "",
+            "badgeColor": null,
+            "fontColor": null,
+            "Newest": false,
+            "Best Selling": false,
+            "On Sale": false,
+            "displayBrand": true,
+            "specs": [
+                {
+                    "title": "Operating System",
+                    "value": "Android 13 (Go Edition)"
+                },
+                {
+                    "title": "Dimensions",
+                    "value": "137.35 x 67.6 x 10.7mm"
+                },
+                {
+                    "title": "Weight",
+                    "value": "<p>144.5g&nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Processor",
+                    "value": "<p>Octa Core&nbsp; (1.6GHz*4 + 1.2GHz*4)&nbsp; &nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Resolution",
+                    "value": "960*480P"
+                },
+                {
+                    "title": "Screen Size",
+                    "value": "5.0\" FWVGA+ 480x960P TFT (214ppi)"
+                },
+                {
+                    "title": "Internal Memory",
+                    "value": "<p>32GB (approx. 24GB available to the user)</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "External Memory",
+                    "value": "<p>microSD up to 512GB (micro SD card sold separately)</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Video Recording",
+                    "value": "1080p @ 30fps"
+                },
+                {
+                    "title": "Optus Pay enabled",
+                    "value": "N/a"
+                },
+                {
+                    "title": "VoLTE Enabled",
+                    "value": "Yes"
+                },
+                {
+                    "title": "GPS",
+                    "value": "Yes"
+                },
+                {
+                    "title": "NFC",
+                    "value": "No"
+                },
+                {
+                    "title": "RAM",
+                    "value": "<p>2GB</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Connectivity",
+                    "value": "<p>WiFi Bands: 802.11 b/g/n at 2.4GHz<br />\r\nWiFi Hotspot<br />\r\nBluetooth Version: 4.2<br />\r\nGPS<br />\r\nOther sensors: Accelerometer</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Colour",
+                    "value": "Black"
+                },
+                {
+                    "title": "Rear Facing Camera",
+                    "value": "Yes"
+                },
+                {
+                    "title": "Rear Facing Camera Megapixels",
+                    "value": "5MP with flash"
+                },
+                {
+                    "title": "Front Facing Camera",
+                    "value": "Yes"
+                },
+                {
+                    "title": "Front Facing Camera Megapixels",
+                    "value": "2MP"
+                },
+                {
+                    "title": "3G Band",
+                    "value": "850/900/2100MHz&nbsp;"
+                },
+                {
+                    "title": "4G Band",
+                    "value": "B1/B3/B5/B7/B8/B28/B40 "
+                },
+                {
+                    "title": "SIM Type",
+                    "value": "<p>4FF&nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Battery",
+                    "value": "<p>2000mAh*</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Audio Formats",
+                    "value": ".mp3,.aac,.m4a,.amr,.wav,.ogg,.mid"
+                },
+                {
+                    "title": "Video Formats",
+                    "value": ".3GP,.Mp4,.mkv,.avi,.webm"
+                }
+            ],
+            "mtcs": [],
+            "specification": null,
+            "hideCompare": false
+        },
+        {
+            "layout": null,
+            "brand": "Optus",
+            "deviceName": "Optus X Sight 3",
+            "price": 79,
+            "priceText": "Price",
+            "duration": "Includes SIM",
+            "durationMonthToMonth": "Includes SIM",
+            "productTileImage": {
+                "src": {
+                    "original": "/content/dam/optus/images/shop/prepaid/phones/optus/x-sight-3/back-front-listings.png/renditions/version-1720750450688/original.png",
+                    "large": "/content/dam/optus/images/shop/prepaid/phones/optus/x-sight-3/back-front-listings.png/renditions/version-1720750450688/original.png",
+                    "medium": "/content/dam/optus/images/shop/prepaid/phones/optus/x-sight-3/back-front-listings.png/renditions/version-1720750450688/original.png",
+                    "small": "/content/dam/optus/images/shop/prepaid/phones/optus/x-sight-3/back-front-listings.png/renditions/version-1720750450688/original.png"
+                },
+                "fileReference": "/content/dam/optus/images/shop/prepaid/phones/optus/x-sight-3/back-front-listings.png",
+                "mobileReverse": false,
+                "wrapperClass": "cq-dd-image",
+                "assetCategory": [
+                    "optus:catalog/devices/images/feature-tile-image",
+                    "optus:catalog/devices/images/product-tile-image"
+                ]
+            },
+            "featureImage": {
+                "src": {
+                    "original": "/content/dam/optus/images/shop/prepaid/phones/optus/x-sight-3/back-front-listings.png/renditions/version-1720750450688/original.png",
+                    "large": "/content/dam/optus/images/shop/prepaid/phones/optus/x-sight-3/back-front-listings.png/renditions/version-1720750450688/original.png",
+                    "medium": "/content/dam/optus/images/shop/prepaid/phones/optus/x-sight-3/back-front-listings.png/renditions/version-1720750450688/original.png",
+                    "small": "/content/dam/optus/images/shop/prepaid/phones/optus/x-sight-3/back-front-listings.png/renditions/version-1720750450688/original.png"
+                },
+                "fileReference": "/content/dam/optus/images/shop/prepaid/phones/optus/x-sight-3/back-front-listings.png",
+                "mobileReverse": false,
+                "wrapperClass": "cq-dd-image",
+                "assetCategory": [
+                    "optus:catalog/devices/images/feature-tile-image",
+                    "optus:catalog/devices/images/product-tile-image"
+                ]
+            },
+            "badgeIconClass": null,
+            "productBadge": "RRP $99",
+            "tileWidth": "3",
+            "compare": "Compare",
+            "internalMemory": [
+                "32GB"
+            ],
+            "color": [
+                "Grey"
+            ],
+            "colour": [
+                {
+                    "hex": "#808080",
+                    "name": "Grey"
+                }
+            ],
+            "hexColor": [
+                "#808080"
+            ],
+            "operatingSystem": [
+                "Android 13 (Go Edition)"
+            ],
+            "detailLink": "/prepaid/phones/optus/x-sight-3",
+            "splashProof": "No",
+            "memoryCardSlot": "No",
+            "outrightPrice": null,
+            "dnavDeviceSubsidizedCheck": false,
+            "dnavSubsidizedText": null,
+            "prepaid": true,
+            "ctaText": null,
+            "networkSpeed": null,
+            "badges": [],
+            "outrightDevice": false,
+            "shortDisclaimer": "",
+            "sticker": [
+                {
+                    "src": {
+                        "original": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png",
+                        "large": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png",
+                        "medium": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png",
+                        "small": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png"
+                    },
+                    "fileReference": "/content/dam/optus/images/shop/stickers/4gplus.png",
+                    "alt": "4G Plus icon",
+                    "mobileReverse": false,
+                    "wrapperClass": "cq-dd-image",
+                    "assetCategory": [
+                        "optus:catalog/devices/images/sticker-image"
+                    ]
+                }
+            ],
+            "featureProduct": false,
+            "hideLeasingBadge": true,
+            "leasingBadgeText": "",
+            "badgeColor": null,
+            "fontColor": null,
+            "Newest": false,
+            "Best Selling": false,
+            "On Sale": false,
+            "displayBrand": true,
+            "specs": [
+                {
+                    "title": "Operating System",
+                    "value": "<p>Android 13 Go</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Dimensions",
+                    "value": "<p>159.2*77.5*9.6mm</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Weight",
+                    "value": "200.5"
+                },
+                {
+                    "title": "Processor",
+                    "value": "Octa Core (4*1.6GHz+4*1.2GHz)"
+                },
+                {
+                    "title": "Resolution",
+                    "value": "960*480P"
+                },
+                {
+                    "title": "Screen Size",
+                    "value": "6.0\" FWVGA+ 480x960P TFT (179ppi)"
+                },
+                {
+                    "title": "Internal Memory",
+                    "value": "<p>32GB (approx. 25GB available to the user)&nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "External Memory",
+                    "value": "<p>microSD up to 512GB (microSD sold separately)</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Video Recording",
+                    "value": "1080p @ 30fps"
+                },
+                {
+                    "title": "Optus Pay enabled",
+                    "value": "N/a"
+                },
+                {
+                    "title": "VoLTE Enabled",
+                    "value": "Yes"
+                },
+                {
+                    "title": "GPS",
+                    "value": "Yes"
+                },
+                {
+                    "title": "NFC",
+                    "value": "No"
+                },
+                {
+                    "title": "RAM",
+                    "value": "2GB"
+                },
+                {
+                    "title": "Connectivity",
+                    "value": "<p>WiFi Bands: 802.11 b/g/n at 2.4GHz<br />\r\nWiFi Hotspot<br />\r\nBluetooth Version: 4.2<br />\r\nGPS<br />\r\nOther sensors: Accelerometer</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Colour",
+                    "value": "Grey"
+                },
+                {
+                    "title": "Rear Facing Camera",
+                    "value": "Yes"
+                },
+                {
+                    "title": "Rear Facing Camera Megapixels",
+                    "value": "5MP with flash"
+                },
+                {
+                    "title": "Front Facing Camera",
+                    "value": "Yes"
+                },
+                {
+                    "title": "Front Facing Camera Megapixels",
+                    "value": "2MP"
+                },
+                {
+                    "title": "3G Band",
+                    "value": "850/900/2100MHz&nbsp;"
+                },
+                {
+                    "title": "4G Band",
+                    "value": "B1/B3/B5/B7/B8/B28/B40&nbsp;"
+                },
+                {
+                    "title": "SIM Type",
+                    "value": "<p>4FF&nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Battery",
+                    "value": "<p>3000mAh* <br />\r\n*All battery life claims are approximate and based on \r\nthe median user tested across a mixed use profile (which includes both \r\nusage and standby time) under optimal network conditions. Actual battery\r\n performance will vary and depends on many factors including signal \r\nstrength, network and device settings, temperature, battery condition, \r\nand usage patterns.<br />\r\n</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Audio Formats",
+                    "value": ".mp3,.aac,.m4a,.amr,.wav,.ogg,.mid"
+                },
+                {
+                    "title": "Video Formats",
+                    "value": ".3GP,.Mp4,.mkv,.avi,.webm"
+                }
+            ],
+            "mtcs": [],
+            "specification": "<ul>\r\n<li>Free $35 SIM Starter Kit incl for new services only. T&amp;amp;Cs apply.</li>\r\n</ul>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+            "hideCompare": false
+        },
+        {
+            "layout": null,
+            "brand": "Optus",
+            "deviceName": "Optus X Delight 2",
+            "price": 109,
+            "priceText": "Price",
+            "duration": "Includes SIM",
+            "durationMonthToMonth": "Includes SIM",
+            "productTileImage": {
+                "src": {
+                    "original": "/content/dam/optus/images/shop/prepaid/phones/optus/optus-x-delight-2/back-front-listings.png/renditions/version-1699505377341/original.png",
+                    "large": "/content/dam/optus/images/shop/prepaid/phones/optus/optus-x-delight-2/back-front-listings.png/renditions/version-1699505377341/original.png",
+                    "medium": "/content/dam/optus/images/shop/prepaid/phones/optus/optus-x-delight-2/back-front-listings.png/renditions/version-1699505377341/original.png",
+                    "small": "/content/dam/optus/images/shop/prepaid/phones/optus/optus-x-delight-2/back-front-listings.png/renditions/version-1699505377341/original.png"
+                },
+                "fileReference": "/content/dam/optus/images/shop/prepaid/phones/optus/optus-x-delight-2/back-front-listings.png",
+                "mobileReverse": false,
+                "wrapperClass": "cq-dd-image",
+                "assetCategory": [
+                    "optus:catalog/devices/images/feature-tile-image",
+                    "optus:catalog/devices/images/product-tile-image"
+                ]
+            },
+            "featureImage": {
+                "src": {
+                    "original": "/content/dam/optus/images/shop/prepaid/phones/optus/optus-x-delight-2/back-front-listings.png/renditions/version-1699505377341/original.png",
+                    "large": "/content/dam/optus/images/shop/prepaid/phones/optus/optus-x-delight-2/back-front-listings.png/renditions/version-1699505377341/original.png",
+                    "medium": "/content/dam/optus/images/shop/prepaid/phones/optus/optus-x-delight-2/back-front-listings.png/renditions/version-1699505377341/original.png",
+                    "small": "/content/dam/optus/images/shop/prepaid/phones/optus/optus-x-delight-2/back-front-listings.png/renditions/version-1699505377341/original.png"
+                },
+                "fileReference": "/content/dam/optus/images/shop/prepaid/phones/optus/optus-x-delight-2/back-front-listings.png",
+                "mobileReverse": false,
+                "wrapperClass": "cq-dd-image",
+                "assetCategory": [
+                    "optus:catalog/devices/images/feature-tile-image",
+                    "optus:catalog/devices/images/product-tile-image"
+                ]
+            },
+            "badgeIconClass": null,
+            "productBadge": "RRP $129",
+            "tileWidth": "3",
+            "compare": "Compare",
+            "internalMemory": [
+                "32GB"
+            ],
+            "color": [
+                "Space Grey&nbsp;"
+            ],
+            "colour": [
+                {
+                    "hex": "#717378",
+                    "name": "Space Grey&nbsp;"
+                }
+            ],
+            "hexColor": [
+                "#717378"
+            ],
+            "operatingSystem": [
+                "Android S GO"
+            ],
+            "detailLink": "/prepaid/phones/optus/x-delight-2",
+            "splashProof": "No",
+            "memoryCardSlot": "No",
+            "outrightPrice": null,
+            "dnavDeviceSubsidizedCheck": false,
+            "dnavSubsidizedText": null,
+            "prepaid": true,
+            "ctaText": null,
+            "networkSpeed": null,
+            "badges": [],
+            "outrightDevice": false,
+            "shortDisclaimer": "",
+            "sticker": [
+                {
+                    "src": {
+                        "original": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png",
+                        "large": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png",
+                        "medium": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png",
+                        "small": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png"
+                    },
+                    "fileReference": "/content/dam/optus/images/shop/stickers/4gplus.png",
+                    "alt": "4G Plus icon",
+                    "mobileReverse": false,
+                    "wrapperClass": "cq-dd-image",
+                    "assetCategory": [
+                        "optus:catalog/devices/images/sticker-image"
+                    ]
+                }
+            ],
+            "featureProduct": false,
+            "hideLeasingBadge": true,
+            "leasingBadgeText": "",
+            "badgeColor": null,
+            "fontColor": null,
+            "Newest": false,
+            "Best Selling": false,
+            "On Sale": false,
+            "displayBrand": true,
+            "specs": [
+                {
+                    "title": "Operating System",
+                    "value": "Android S GO"
+                },
+                {
+                    "title": "Dimensions",
+                    "value": "165.7 x 76.4 x 9.1mm&nbsp;"
+                },
+                {
+                    "title": "Weight",
+                    "value": "203"
+                },
+                {
+                    "title": "Processor",
+                    "value": "Octa-Core ((1.6GHz*4)+(1.2GHz*4))"
+                },
+                {
+                    "title": "Resolution",
+                    "value": "HD+ 720*1600P"
+                },
+                {
+                    "title": "Screen Size",
+                    "value": "<p>6.52” IPS HD+ 720*1600P (269ppi)&nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Internal Memory",
+                    "value": "<p>32GB (approx. 25GB available to user)&nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "External Memory",
+                    "value": "<p>microSD up to 512GB<br />\r\nThe micro SD card must be purchased separately.&nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Video Recording",
+                    "value": "1080p @ 30fps"
+                },
+                {
+                    "title": "Optus Pay enabled",
+                    "value": " "
+                },
+                {
+                    "title": "VoLTE Enabled",
+                    "value": "Yes"
+                },
+                {
+                    "title": "GPS",
+                    "value": "Yes"
+                },
+                {
+                    "title": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "title": "RAM",
+                    "value": "2GB"
+                },
+                {
+                    "title": "Connectivity",
+                    "value": "<p>WiFi Bands: 802.11b/g/n at 2.4GHz<br />\r\nWiFi Hotspot<br />\r\nBluetooth Version: 4.2<br />\r\nGPS<br />\r\nOther sensors: Accelerometer,Proximity sensor,Light sensor,Fingerprint recognition&nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Colour",
+                    "value": "Space Grey&nbsp;"
+                },
+                {
+                    "title": "Rear Facing Camera",
+                    "value": "Yes"
+                },
+                {
+                    "title": "Rear Facing Camera Megapixels",
+                    "value": "13MP AI"
+                },
+                {
+                    "title": "Front Facing Camera",
+                    "value": "Yes"
+                },
+                {
+                    "title": "Front Facing Camera Megapixels",
+                    "value": "5MP"
+                },
+                {
+                    "title": "3G Band",
+                    "value": "850/900/2100MHz&nbsp;"
+                },
+                {
+                    "title": "4G Band",
+                    "value": "B1/B3/B5/B7/B8/B28/B40&nbsp;"
+                },
+                {
+                    "title": "SIM Type",
+                    "value": "<p>4FF&nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Battery",
+                    "value": "<p>4000mAh*</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p>*All battery life claims are approximate and based on the median user tested across a mixed use profile (which includes both usage and standby time) under optimal network conditions. Actual battery performance will vary and depends on many factors, including signal strength, network and device settings, temperature, battery condition, and usage patterns.</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Audio Formats",
+                    "value": "mp3,aac,m4a,amr,wav,ogg,mid&nbsp;"
+                },
+                {
+                    "title": "Video Formats",
+                    "value": "3GP,Mp4,mkv,avi,webm&nbsp;"
+                }
+            ],
+            "mtcs": [],
+            "specification": null,
+            "hideCompare": false
+        },
+        {
+            "layout": null,
+            "brand": "Optus",
+            "deviceName": "Optus X Tap 3 ",
+            "price": 149,
+            "priceText": "Price",
+            "duration": "Includes SIM",
+            "durationMonthToMonth": "Includes SIM",
+            "productTileImage": {
+                "src": {
+                    "original": "/content/dam/optus/images/shop/prepaid/phones/optus/x-tap-3/back-front-listings.png/renditions/version-1714975404073/original.png",
+                    "large": "/content/dam/optus/images/shop/prepaid/phones/optus/x-tap-3/back-front-listings.png/renditions/version-1714975404073/original.png",
+                    "medium": "/content/dam/optus/images/shop/prepaid/phones/optus/x-tap-3/back-front-listings.png/renditions/version-1714975404073/original.png",
+                    "small": "/content/dam/optus/images/shop/prepaid/phones/optus/x-tap-3/back-front-listings.png/renditions/version-1714975404073/original.png"
+                },
+                "fileReference": "/content/dam/optus/images/shop/prepaid/phones/optus/x-tap-3/back-front-listings.png",
+                "mobileReverse": false,
+                "wrapperClass": "cq-dd-image",
+                "assetCategory": [
+                    "optus:catalog/devices/images/feature-tile-image",
+                    "optus:catalog/devices/images/product-tile-image"
+                ]
+            },
+            "featureImage": {
+                "src": {
+                    "original": "/content/dam/optus/images/shop/prepaid/phones/optus/x-tap-3/back-front-listings.png/renditions/version-1714975404073/original.png",
+                    "large": "/content/dam/optus/images/shop/prepaid/phones/optus/x-tap-3/back-front-listings.png/renditions/version-1714975404073/original.png",
+                    "medium": "/content/dam/optus/images/shop/prepaid/phones/optus/x-tap-3/back-front-listings.png/renditions/version-1714975404073/original.png",
+                    "small": "/content/dam/optus/images/shop/prepaid/phones/optus/x-tap-3/back-front-listings.png/renditions/version-1714975404073/original.png"
+                },
+                "fileReference": "/content/dam/optus/images/shop/prepaid/phones/optus/x-tap-3/back-front-listings.png",
+                "mobileReverse": false,
+                "wrapperClass": "cq-dd-image",
+                "assetCategory": [
+                    "optus:catalog/devices/images/feature-tile-image",
+                    "optus:catalog/devices/images/product-tile-image"
+                ]
+            },
+            "badgeIconClass": null,
+            "productBadge": null,
+            "tileWidth": "3",
+            "compare": "Compare",
+            "internalMemory": [
+                "128GB"
+            ],
+            "color": [
+                "Black"
+            ],
+            "colour": [
+                {
+                    "hex": "#000000",
+                    "name": "Black"
+                }
+            ],
+            "hexColor": [
+                "#000000"
+            ],
+            "operatingSystem": [
+                "Android U"
+            ],
+            "detailLink": "/prepaid/phones/optus/x-tap-3",
+            "splashProof": "No",
+            "memoryCardSlot": "No",
+            "outrightPrice": null,
+            "dnavDeviceSubsidizedCheck": false,
+            "dnavSubsidizedText": null,
+            "prepaid": true,
+            "ctaText": null,
+            "networkSpeed": null,
+            "badges": [],
+            "outrightDevice": false,
+            "shortDisclaimer": "",
+            "sticker": [
+                {
+                    "src": {
+                        "original": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png",
+                        "large": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png",
+                        "medium": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png",
+                        "small": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png"
+                    },
+                    "fileReference": "/content/dam/optus/images/shop/stickers/4gplus.png",
+                    "alt": "4G Plus icon",
+                    "mobileReverse": false,
+                    "wrapperClass": "cq-dd-image",
+                    "assetCategory": [
+                        "optus:catalog/devices/images/sticker-image"
+                    ]
+                }
+            ],
+            "featureProduct": false,
+            "hideLeasingBadge": true,
+            "leasingBadgeText": "",
+            "badgeColor": null,
+            "fontColor": null,
+            "Newest": true,
+            "Best Selling": false,
+            "On Sale": false,
+            "displayBrand": true,
+            "specs": [
+                {
+                    "title": "Operating System",
+                    "value": "Android U"
+                },
+                {
+                    "title": "Dimensions",
+                    "value": "164.34 * 75.3&nbsp;* 8.93 mm"
+                },
+                {
+                    "title": "Weight",
+                    "value": "<p>198g</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Processor",
+                    "value": "Octa-core (2 *A75@1.6GHz + 6*A55@1.6GHz)"
+                },
+                {
+                    "title": "Resolution",
+                    "value": "1612*720P"
+                },
+                {
+                    "title": "Screen Size",
+                    "value": "<p>6.6” HD+ 1612x720P (269ppi)</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Internal Memory",
+                    "value": "<p>128GB</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "External Memory",
+                    "value": "<p>microSD up to 1TB</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Video Recording",
+                    "value": "1080p @ 30fps"
+                },
+                {
+                    "title": "Optus Pay enabled",
+                    "value": "N/a"
+                },
+                {
+                    "title": "VoLTE Enabled",
+                    "value": "Yes"
+                },
+                {
+                    "title": "GPS",
+                    "value": "Yes"
+                },
+                {
+                    "title": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "title": "RAM",
+                    "value": "4GB + Up to 4GB Extended RAM"
+                },
+                {
+                    "title": "Connectivity",
+                    "value": "<p><b>WiFi Bands</b>: 802.11 b/g/n/a/ac at 2.4GHz/5GHz&nbsp;<br />\r\n<b>WiFi Hotspot</b>: Yes<br />\r\n<b>Bluetooth Version</b>: 5.2<br />\r\n<b>NFC</b>: Yes<br />\r\n<b>GPS</b>: Yes<br />\r\n<b>Other sensors</b>: Accelerometer, Proximity, Ambient Light, Fingerprint&nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Colour",
+                    "value": "Black"
+                },
+                {
+                    "title": "Rear Facing Camera",
+                    "value": "Yes"
+                },
+                {
+                    "title": "Rear Facing Camera Megapixels",
+                    "value": "50MP+2MP+Assistive"
+                },
+                {
+                    "title": "Front Facing Camera",
+                    "value": "Yes"
+                },
+                {
+                    "title": "Front Facing Camera Megapixels",
+                    "value": "5MP"
+                },
+                {
+                    "title": "3G Band",
+                    "value": "850/900/2100MHz&nbsp;"
+                },
+                {
+                    "title": "4G Band",
+                    "value": "B1/B3/B5/B7/B8/B28/B40&nbsp;"
+                },
+                {
+                    "title": "SIM Type",
+                    "value": "<p>4FF + 4FF</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Battery",
+                    "value":"<p>5,000mAh* (non-removable)</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Audio Formats",
+                    "value": ".mp3,.aac,.m4a,.amr,.wav,.ogg,.mid"
+                },
+                {
+                    "title": "Video Formats",
+                    "value": ".3GP,.Mp4,.mkv,.avi,.webm"
+                }
+            ],
+            "mtcs": [],
+            "specification": "<ul>\r\n<li>Free $35 SIM Starter Kit incl for new services only. T&amp;amp;Cs apply.</li>\r\n</ul>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+            "hideCompare": false
+        },
+        {
+            "layout": null,
+            "brand": "Optus",
+            "deviceName": "Optus X Pro 5G",
+            "price": 169,
+            "priceText": "Price",
+            "duration": "Includes SIM",
+            "durationMonthToMonth": "Includes SIM",
+            "productTileImage": {
+                "src": {
+                    "original": "/content/dam/optus/images/shop/prepaid/phones/optus/x-pro-5g/back-front-listings.png/renditions/version-1714974512946/original.png",
+                    "large": "/content/dam/optus/images/shop/prepaid/phones/optus/x-pro-5g/back-front-listings.png/renditions/version-1714974512946/original.png",
+                    "medium": "/content/dam/optus/images/shop/prepaid/phones/optus/x-pro-5g/back-front-listings.png/renditions/version-1714974512946/original.png",
+                    "small": "/content/dam/optus/images/shop/prepaid/phones/optus/x-pro-5g/back-front-listings.png/renditions/version-1714974512946/original.png"
+                },
+                "fileReference": "/content/dam/optus/images/shop/prepaid/phones/optus/x-pro-5g/back-front-listings.png",
+                "mobileReverse": false,
+                "wrapperClass": "cq-dd-image",
+                "assetCategory": [
+                    "optus:catalog/devices/images/feature-tile-image",
+                    "optus:catalog/devices/images/product-tile-image"
+                ]
+            },
+            "featureImage": {
+                "src": {
+                    "original": "/content/dam/optus/images/shop/prepaid/phones/optus/x-pro-5g/back-front-listings.png/renditions/version-1714974512946/original.png",
+                    "large": "/content/dam/optus/images/shop/prepaid/phones/optus/x-pro-5g/back-front-listings.png/renditions/version-1714974512946/original.png",
+                    "medium": "/content/dam/optus/images/shop/prepaid/phones/optus/x-pro-5g/back-front-listings.png/renditions/version-1714974512946/original.png",
+                    "small": "/content/dam/optus/images/shop/prepaid/phones/optus/x-pro-5g/back-front-listings.png/renditions/version-1714974512946/original.png"
+                },
+                "fileReference": "/content/dam/optus/images/shop/prepaid/phones/optus/x-pro-5g/back-front-listings.png",
+                "mobileReverse": false,
+                "wrapperClass": "cq-dd-image",
+                "assetCategory": [
+                    "optus:catalog/devices/images/feature-tile-image",
+                    "optus:catalog/devices/images/product-tile-image"
+                ]
+            },
+            "badgeIconClass": null,
+            "productBadge": null,
+            "tileWidth": "3",
+            "compare": "Compare",
+            "internalMemory": [
+                "128GB"
+            ],
+            "color": [
+                "Black"
+            ],
+            "colour": [
+                {
+                    "hex": "#000000",
+                    "name": "Black"
+                }
+            ],
+            "hexColor": [
+                "#000000"
+            ],
+            "operatingSystem": [
+                "Android U"
+            ],
+            "detailLink": "/prepaid/phones/optus/x-pro-5g",
+            "splashProof": "No",
+            "memoryCardSlot": "No",
+            "outrightPrice": null,
+            "dnavDeviceSubsidizedCheck": false,
+            "dnavSubsidizedText": null,
+            "prepaid": true,
+            "ctaText": null,
+            "networkSpeed": null,
+            "badges": [],
+            "outrightDevice": false,
+            "shortDisclaimer": "",
+            "sticker": [
+                {
+                    "src": {
+                        "original": "/content/dam/optus/images/shop/stickers/5g-capable%20(1).png/renditions/version-1724816342028/original.png",
+                        "large": "/content/dam/optus/images/shop/stickers/5g-capable%20(1).png/renditions/version-1724816342028/original.png",
+                        "medium": "/content/dam/optus/images/shop/stickers/5g-capable%20(1).png/renditions/version-1724816342028/original.png",
+                        "small": "/content/dam/optus/images/shop/stickers/5g-capable%20(1).png/renditions/version-1724816342028/original.png"
+                    },
+                    "fileReference": "/content/dam/optus/images/shop/stickers/5g-capable (1).png",
+                    "alt": "5G Capable",
+                    "mobileReverse": false,
+                    "wrapperClass": "cq-dd-image",
+                    "assetCategory": [
+                        "optus:catalog/devices/images/sticker-image"
+                    ]
+                }
+            ],
+            "featureProduct": false,
+            "hideLeasingBadge": true,
+            "leasingBadgeText": "",
+            "badgeColor": null,
+            "fontColor": null,
+            "Newest": true,
+            "Best Selling": false,
+            "On Sale": false,
+            "displayBrand": true,
+            "specs": [
+                {
+                    "title": "Operating System",
+                    "value": "Android U"
+                },
+                {
+                    "title": "Dimensions",
+                    "value": "163.59*75.22*9.27mm"
+                },
+                {
+                    "title": "Weight",
+                    "value": "<p>198g</p>\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Processor",
+                    "value": "2.2GHz Octa-Core"
+                },
+                {
+                    "title": "Resolution",
+                    "value": "720*1600P"
+                },
+                {
+                    "title": "Screen Size",
+                    "value": "<p>6.52” 720 x 1600P IPS HD+ LCD&nbsp; 269ppi</p>\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Internal Memory",
+                    "value": "<p>128GB (approx 107GB available to the user)</p>\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "External Memory",
+                    "value": "N/A"
+                },
+                {
+                    "title": "Video Recording",
+                    "value": "1080p @ 30fps"
+                },
+                {
+                    "title": "Optus Pay enabled",
+                    "value": "N/a"
+                },
+                {
+                    "title": "VoLTE Enabled",
+                    "value": "Yes"
+                },
+                {
+                    "title": "GPS",
+                    "value": "Yes"
+                },
+                {
+                    "title": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "title": "RAM",
+                    "value": "4GB + Up to 4GB Extended RAM"
+                },
+                {
+                    "title": "Connectivity",
+                    "value": "<p><b>WiFi Bands</b>: 802.11 a/b/g/n/ac at 2.4GHz/5GHz&nbsp;<br />\r\n<b>WiFi Hotspot</b>: Yes<br />\r\n<b>Bluetooth Version</b>: 5.0<br />\r\n<b>NFC</b>: Yes<br />\r\n<b>GPS</b>: Yes<br />\r\n<b>Other sensors</b>: Accelerometer, Proximity Sensor, Light Sensor</p>\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Colour",
+                    "value": "Black"
+                },
+                {
+                    "title": "Rear Facing Camera",
+                    "value": "Yes"
+                },
+                {
+                    "title": "Rear Facing Camera Megapixels",
+                    "value": "50MP+2MP Dual AI Camera"
+                },
+                {
+                    "title": "Front Facing Camera",
+                    "value": "Yes"
+                },
+                {
+                    "title": "Front Facing Camera Megapixels",
+                    "value": "5MP"
+                },
+                {
+                    "title": "3G Band",
+                    "value": "850/900/2100MHz&nbsp;"
+                },
+                {
+                    "title": "4G Band",
+                    "value": "B1/B3/B5/B7/B8/B28/B40&nbsp;"
+                },
+                {
+                    "title": "SIM Type",
+                    "value": "<p>4FF + 4FF</p>\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Battery",
+                    "value": "<p>5000mAh*‘(non-removable)</p>\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Audio Formats",
+                    "value": ".mp3,.aac,.m4a,.amr,.wav,.ogg,.mid"
+                },
+                {
+                    "title": "Video Formats",
+                    "value": ".3GP,.Mp4,.mkv,.avi,.webm"
+                }
+            ],
+            "mtcs": [],
+            "specification": "<ul>\r\n<li>Free $35 SIM Starter Kit incl for new services only. T&amp;amp;Cs apply.</li>\r\n</ul>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+            "hideCompare": false
+        },
+        {
+            "layout": null,
+            "brand": "Samsung",
+            "deviceName": "Samsung Galaxy A05s",
+            "price": 249,
+            "priceText": "Price",
+            "duration": "Includes SIM",
+            "durationMonthToMonth": "Includes SIM",
+            "productTileImage": {
+                "src": {
+                    "original": "/content/dam/optus/images/shop/prepaid/phones/samsung/galaxy-a05s/back-front-listings.png/renditions/version-1706496970605/original.png",
+                    "large": "/content/dam/optus/images/shop/prepaid/phones/samsung/galaxy-a05s/back-front-listings.png/renditions/version-1706496970605/original.png",
+                    "medium": "/content/dam/optus/images/shop/prepaid/phones/samsung/galaxy-a05s/back-front-listings.png/renditions/version-1706496970605/original.png",
+                    "small": "/content/dam/optus/images/shop/prepaid/phones/samsung/galaxy-a05s/back-front-listings.png/renditions/version-1706496970605/original.png"
+                },
+                "fileReference": "/content/dam/optus/images/shop/prepaid/phones/samsung/galaxy-a05s/back-front-listings.png",
+                "mobileReverse": false,
+                "wrapperClass": "cq-dd-image",
+                "assetCategory": [
+                    "optus:catalog/devices/images/product-tile-image",
+                    "optus:catalog/devices/images/feature-tile-image"
+                ]
+            },
+            "featureImage": {
+                "src": {
+                    "original": "/content/dam/optus/images/shop/prepaid/phones/samsung/galaxy-a05s/back-front-listings.png/renditions/version-1706496970605/original.png",
+                    "large": "/content/dam/optus/images/shop/prepaid/phones/samsung/galaxy-a05s/back-front-listings.png/renditions/version-1706496970605/original.png",
+                    "medium": "/content/dam/optus/images/shop/prepaid/phones/samsung/galaxy-a05s/back-front-listings.png/renditions/version-1706496970605/original.png",
+                    "small": "/content/dam/optus/images/shop/prepaid/phones/samsung/galaxy-a05s/back-front-listings.png/renditions/version-1706496970605/original.png"
+                },
+                "fileReference": "/content/dam/optus/images/shop/prepaid/phones/samsung/galaxy-a05s/back-front-listings.png",
+                "mobileReverse": false,
+                "wrapperClass": "cq-dd-image",
+                "assetCategory": [
+                    "optus:catalog/devices/images/product-tile-image",
+                    "optus:catalog/devices/images/feature-tile-image"
+                ]
+            },
+            "badgeIconClass": null,
+            "productBadge": null,
+            "tileWidth": "3",
+            "compare": "Compare",
+            "internalMemory": [
+                "64GB"
+            ],
+            "color": [
+                "Black"
+            ],
+            "colour": [
+                {
+                    "hex": "#000000",
+                    "name": "Black"
+                }
+            ],
+            "hexColor": [
+                "#000000"
+            ],
+            "operatingSystem": [
+                "Android 13"
+            ],
+            "detailLink": "/prepaid/phones/samsung/galaxy-a05s",
+            "splashProof": "No",
+            "memoryCardSlot": "No",
+            "outrightPrice": null,
+            "dnavDeviceSubsidizedCheck": false,
+            "dnavSubsidizedText": null,
+            "prepaid": true,
+            "ctaText": null,
+            "networkSpeed": null,
+            "badges": [],
+            "outrightDevice": false,
+            "shortDisclaimer": "",
+            "sticker": [
+                {
+                    "src": {
+                        "original": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png",
+                        "large": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png",
+                        "medium": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png",
+                        "small": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png"
+                    },
+                    "fileReference": "/content/dam/optus/images/shop/stickers/4gplus.png",
+                    "alt": "4G Plus icon",
+                    "mobileReverse": false,
+                    "wrapperClass": "cq-dd-image",
+                    "assetCategory": [
+                        "optus:catalog/devices/images/sticker-image"
+                    ]
+                }
+            ],
+            "featureProduct": false,
+            "hideLeasingBadge": true,
+            "leasingBadgeText": "",
+            "badgeColor": null,
+            "fontColor": null,
+            "Newest": false,
+            "Best Selling": true,
+            "On Sale": false,
+            "displayBrand": true,
+            "specs": [
+                {
+                    "title": "Operating System",
+                    "value": "Android 13"
+                },
+                {
+                    "title": "Dimensions",
+                    "value": "168 x 77.8 x 8.8mm"
+                },
+                {
+                    "title": "Weight",
+                    "value": "194g"
+                },
+                {
+                    "title": "Processor",
+                    "value": "<p>Snapdragon 680, Octa core</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Resolution",
+                    "value": "Full HD+"
+                },
+                {
+                    "title": "Screen Size",
+                    "value": "<p>6.7&amp;quot; FHD+ Display* with 90Hz Refresh</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Internal Memory",
+                    "value": "<p>64GB**</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "External Memory",
+                    "value": "Micro SD up to 1TB"
+                },
+                {
+                    "title": "Video Recording",
+                    "value": "FHD Video Recording"
+                },
+                {
+                    "title": "Optus Pay enabled",
+                    "value": "No"
+                },
+                {
+                    "title": "VoLTE Enabled",
+                    "value": "Yes"
+                },
+                {
+                    "title": "GPS",
+                    "value": "Yes"
+                },
+                {
+                    "title": "NFC",
+                    "value": "No"
+                },
+                {
+                    "title": "RAM",
+                    "value": "<p>4GB</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Connectivity",
+                    "value": "<p style=\"text-align: right;\"><b>WiFi Bands</b>: 802.11 a/b/n/g/ac<br />\r\n<b>WiFi Hotspot </b><br />\r\n<b>Bluetooth Version</b>: v5.1<br />\r\n<b>GPS&nbsp;</b></p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Colour",
+                    "value": "Black"
+                },
+                {
+                    "title": "Rear Facing Camera",
+                    "value": "Yes"
+                },
+                {
+                    "title": "Rear Facing Camera Megapixels",
+                    "value": "50MP + 2MP + 2MP"
+                },
+                {
+                    "title": "Front Facing Camera",
+                    "value": "Yes"
+                },
+                {
+                    "title": "Front Facing Camera Megapixels",
+                    "value": "13MP"
+                },
+                {
+                    "title": "3G Band",
+                    "value": "B1(2100),B5(850),B8(900)"
+                },
+                {
+                    "title": "4G Band",
+                    "value": "B1(2100),B3(1800),B5(850),B7(2600),B8(900),B20(800),B28(700), B38(2600),B40(2300),B41(2500)"
+                },
+                {
+                    "title": "SIM Type",
+                    "value": "<p>Nano SIM</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Battery",
+                    "value":"<p>5,000mAh (Typical)***&nbsp; (non removable)</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Audio Formats",
+                    "value":"MP3,M4A,3GA,AAC,OGG,OGA,WAV,AMR,AWB,FLAC,MID,MIDI,XMF,MXMF,IMY,RTTTL,RTX,OTA"
+                },
+                {
+                    "title": "Video Formats",
+                    "value":"MP4,M4V,3GP,
+                    3G2,AVI,FLV,MKV,WEBM"
+                }
+            ],
+            "mtcs": [],
+            "specification": "<ul>\r\n<li>Free $35 SIM Starter Kit incl for new services only. T&amp;amp;Cs apply.</li>\r\n</ul>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+            "hideCompare": false
+        },
+        {
+            "layout": null,
+            "brand": "Oppo",
+            "deviceName": "OPPO A58",
+            "price": 249,
+            "priceText": "Price",
+            "duration": "Includes SIM",
+            "durationMonthToMonth": "Includes SIM",
+            "productTileImage": {
+                "src": {
+                    "original": "/content/dam/optus/images/shop/prepaid/phones/oppo/a58/back-front-listings.png/renditions/version-1698979696120/original.png",
+                    "large": "/content/dam/optus/images/shop/prepaid/phones/oppo/a58/back-front-listings.png/renditions/version-1698979696120/original.png",
+                    "medium": "/content/dam/optus/images/shop/prepaid/phones/oppo/a58/back-front-listings.png/renditions/version-1698979696120/original.png",
+                    "small": "/content/dam/optus/images/shop/prepaid/phones/oppo/a58/back-front-listings.png/renditions/version-1698979696120/original.png"
+                },
+                "fileReference": "/content/dam/optus/images/shop/prepaid/phones/oppo/a58/back-front-listings.png",
+                "mobileReverse": false,
+                "wrapperClass": "cq-dd-image",
+                "assetCategory": [
+                    "optus:catalog/devices/images/feature-tile-image",
+                    "optus:catalog/devices/images/product-tile-image"
+                ]
+            },
+            "featureImage": {
+                "src": {
+                    "original": "/content/dam/optus/images/shop/prepaid/phones/oppo/a58/back-front-listings.png/renditions/version-1698979696120/original.png",
+                    "large": "/content/dam/optus/images/shop/prepaid/phones/oppo/a58/back-front-listings.png/renditions/version-1698979696120/original.png",
+                    "medium": "/content/dam/optus/images/shop/prepaid/phones/oppo/a58/back-front-listings.png/renditions/version-1698979696120/original.png",
+                    "small": "/content/dam/optus/images/shop/prepaid/phones/oppo/a58/back-front-listings.png/renditions/version-1698979696120/original.png"
+                },
+                "fileReference": "/content/dam/optus/images/shop/prepaid/phones/oppo/a58/back-front-listings.png",
+                "mobileReverse": false,
+                "wrapperClass": "cq-dd-image",
+                "assetCategory": [
+                    "optus:catalog/devices/images/feature-tile-image",
+                    "optus:catalog/devices/images/product-tile-image"
+                ]
+            },
+            "badgeIconClass": null,
+            "productBadge": null,
+            "tileWidth": "3",
+            "compare": "Compare",
+            "internalMemory": [
+                "128GB"
+            ],
+            "color": [
+                "Glowing Black"
+            ],
+            "colour": [
+                {
+                    "hex": "#000000",
+                    "name": "Glowing Black"
+                }
+            ],
+            "hexColor": [
+                "#000000"
+            ],
+            "operatingSystem": [
+                "Android 13 / ColorOS 13.1"
+            ],
+            "detailLink": "/prepaid/phones/oppo/oppo-a58",
+            "splashProof": "No",
+            "memoryCardSlot": "No",
+            "outrightPrice": null,
+            "dnavDeviceSubsidizedCheck": false,
+            "dnavSubsidizedText": null,
+            "prepaid": true,
+            "ctaText": null,
+            "networkSpeed": null,
+            "badges": [],
+            "outrightDevice": false,
+            "shortDisclaimer": "",
+            "sticker": [
+                {
+                    "src": {
+                        "original": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png",
+                        "large": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png",
+                        "medium": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png",
+                        "small": "/content/dam/optus/images/shop/stickers/4gplus.png/renditions/version-1724816322610/original.png"
+                    },
+                    "fileReference": "/content/dam/optus/images/shop/stickers/4gplus.png",
+                    "alt": "4G Plus icon",
+                    "mobileReverse": false,
+                    "wrapperClass": "cq-dd-image",
+                    "assetCategory": [
+                        "optus:catalog/devices/images/sticker-image"
+                    ]
+                }
+            ],
+            "featureProduct": false,
+            "hideLeasingBadge": true,
+            "leasingBadgeText": "",
+            "badgeColor": null,
+            "fontColor": null,
+            "Newest": false,
+            "Best Selling": false,
+            "On Sale": false,
+            "displayBrand": false,
+            "specs": [
+                {
+                    "title": "Operating System",
+                    "value": "Android 13 / ColorOS 13.1"
+                },
+                {
+                    "title": "Dimensions",
+                    "value": "<p>About 165x76x7.99mm&nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Weight",
+                    "value": "192"
+                },
+                {
+                    "title": "Processor",
+                    "value": "MediaTek Helio G85 Up to 2.0GHz"
+                },
+                {
+                    "title": "Resolution",
+                    "value":"FHD+,2400 x 1080"
+                },
+                {
+                    "title": "Screen Size",
+                    "value": "6.72\" 2400x1080, FHD+ LTPS LCD"
+                },
+                {
+                    "title": "Internal Memory",
+                    "value": "<p>128GB (approximately 105GB available to the user)&nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "External Memory",
+                    "value": "<p>Up to 1TB (via microSD) Storage can be expanded via a Micro SD card. The Micro SD card must be purchased separately.&nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Video Recording",
+                    "value": "1080p @ 30fps / 720p @ 30fps"
+                },
+                {
+                    "title": "Optus Pay enabled",
+                    "value": "Optus to confirm"
+                },
+                {
+                    "title": "VoLTE Enabled",
+                    "value": "Yes"
+                },
+                {
+                    "title": "GPS",
+                    "value": "Yes"
+                },
+                {
+                    "title": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "title": "RAM",
+                    "value": "6GB+ (1GB;2GB;4GB RAM Expansion )"
+                },
+                {
+                    "title": "Connectivity",
+                    "value": "<p>WiFi Bands: 802.11a/b/g/n/ac<br />\r\nWiFi Hotspot: Yes<br />\r\nBluetooth Version: BT5.3<br />\r\nGPS: Yes<br />\r\nOther sensors: E-Compass, Light &amp;amp; Proximity Sensor, Accelerator sensor, Gyro, Side mounted fingerprint sensor&nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Colour",
+                    "value": "Glowing Black"
+                },
+                {
+                    "title": "Rear Facing Camera",
+                    "value": "Yes"
+                },
+                {
+                    "title": "Rear Facing Camera Megapixels",
+                    "value": "50MP + 2MP"
+                },
+                {
+                    "title": "Front Facing Camera",
+                    "value": "Yes"
+                },
+                {
+                    "title": "Front Facing Camera Megapixels",
+                    "value": "8MP"
+                },
+                {
+                    "title": "3G Band",
+                    "value": "1/2/4/5/6/8/19"
+                },
+                {
+                    "title": "4G Band",
+                    "value": "1/2/3/4/5/7/8/12/17/18/19/20/26/28/66/38/39/40/41"
+                },
+                {
+                    "title": "SIM Type",
+                    "value": "<p>4FF + 4FF&nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Battery",
+                    "value": "<p>5000mAh* * All battery life claims are approximate. Actual battery performance will vary and depends on many factors, including signal strength, network and device settings, temperature, battery condition, and usage patterns.&nbsp;</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                },
+                {
+                    "title": "Audio Formats",
+                    "value": "3GP/M4A/AAC/FLAC/MID //MP3/WAV/OGG/APE/AMR/WMA/MKA"
+                },
+                {
+                    "title": "Video Formats",
+                    "value": "MP4/3GP/ASF/AVI/FLV/M2TS/MKV/MPG/TS/WEBM/WMV"
+                }
+            ],
+            "mtcs": [],
+            "specification": "<ul>\r\n<li>Free $35 SIM Starter Kit incl for new services only. T&amp;amp;Cs apply.</li>\r\n</ul>\r\n",
+            "hideCompare": false
+        }
+    ],
+    "showFilters": true,
+    "defaultContractLength": null,
+    "emptyMessage": "No devices available for current selection",
+    "tileLayout": "specification",
+    "excludeBrandList": [],
+    "hidePriceBlock": false,
+    "outrightEnabled": false,
+    "filterData": {
+        "layout": null,
+        "filters": [
+            {
+                "layout": null,
+                "id": "brand",
+                "multiSelect": true,
+                "onSelect": "FiltersSelected",
+                "tabHighlightBackground": null,
+                "options": [
+                    {
+                        "layout": null,
+                        "label": "All Brands",
+                        "value": "all",
+                        "showIcon": false,
+                        "iconPath": null,
+                        "iconSize": null,
+                        "values": null,
+                        "selected": true,
+                        "planCategoryPurpose": null,
+                        "optionId": null,
+                        "multiValue": null,
+                        "value@Delete": null
+                    },
+                    {
+                        "layout": null,
+                        "label": "realme",
+                        "value": "realme",
+                        "showIcon": false,
+                        "iconPath": null,
+                        "iconSize": null,
+                        "values": null,
+                        "selected": null,
+                        "planCategoryPurpose": null,
+                        "optionId": null,
+                        "multiValue": null,
+                        "value@Delete": null
+                    },
+                    {
+                        "layout": null,
+                        "label": "Oppo",
+                        "value": "Oppo",
+                        "showIcon": false,
+                        "iconPath": null,
+                        "iconSize": null,
+                        "values": null,
+                        "selected": null,
+                        "planCategoryPurpose": null,
+                        "optionId": null,
+                        "multiValue": null,
+                        "value@Delete": null
+                    },
+                    {
+                        "layout": null,
+                        "label": "Samsung",
+                        "value": "Samsung",
+                        "showIcon": false,
+                        "iconPath": null,
+                        "iconSize": null,
+                        "values": null,
+                        "selected": null,
+                        "planCategoryPurpose": null,
+                        "optionId": null,
+                        "multiValue": null,
+                        "value@Delete": null
+                    },
+                    {
+                        "layout": null,
+                        "label": "Optus",
+                        "value": "Optus",
+                        "showIcon": false,
+                        "iconPath": null,
+                        "iconSize": null,
+                        "values": null,
+                        "selected": null,
+                        "planCategoryPurpose": null,
+                        "optionId": null,
+                        "multiValue": null,
+                        "value@Delete": null
+                    },
+                    {
+                        "layout": null,
+                        "label": "Motorola",
+                        "value": "Motorola",
+                        "showIcon": false,
+                        "iconPath": null,
+                        "iconSize": null,
+                        "values": null,
+                        "selected": null,
+                        "planCategoryPurpose": null,
+                        "optionId": null,
+                        "multiValue": null,
+                        "value@Delete": null
+                    }
+                ],
+                "label": "Brands"
+            },
+            {
+                "layout": null,
+                "id": "networkSpeed",
+                "multiSelect": false,
+                "onSelect": "FiltersSelected",
+                "tabHighlightBackground": null,
+                "options": [
+                    {
+                        "layout": null,
+                        "label": "All Network Speed",
+                        "value": "all",
+                        "showIcon": false,
+                        "iconPath": null,
+                        "iconSize": null,
+                        "values": null,
+                        "selected": true,
+                        "planCategoryPurpose": null,
+                        "optionId": null,
+                        "multiValue": null,
+                        "value@Delete": null
+                    },
+                    {
+                        "layout": null,
+                        "label": "4G",
+                        "value": "4G",
+                        "showIcon": false,
+                        "iconPath": null,
+                        "iconSize": null,
+                        "values": null,
+                        "selected": null,
+                        "planCategoryPurpose": null,
+                        "optionId": null,
+                        "multiValue": null,
+                        "value@Delete": null
+                    },
+                    {
+                        "layout": null,
+                        "label": "5G",
+                        "value": "5G",
+                        "showIcon": false,
+                        "iconPath": null,
+                        "iconSize": null,
+                        "values": null,
+                        "selected": null,
+                        "planCategoryPurpose": null,
+                        "optionId": null,
+                        "multiValue": null,
+                        "value@Delete": null
+                    }
+                ],
+                "label": "Network Speed"
+            },
+            {
+                "layout": null,
+                "id": "sortValue",
+                "multiSelect": false,
+                "onSelect": "deviceSortFiltersSelected",
+                "tabHighlightBackground": null,
+                "options": [
+                    {
+                        "layout": null,
+                        "label": "All Sort",
+                        "value": "all",
+                        "showIcon": false,
+                        "iconPath": null,
+                        "iconSize": null,
+                        "values": null,
+                        "selected": true,
+                        "planCategoryPurpose": null,
+                        "optionId": null,
+                        "multiValue": null,
+                        "value@Delete": null
+                    },
+                    {
+                        "layout": null,
+                        "label": "Best Selling",
+                        "value": "Best Selling",
+                        "showIcon": false,
+                        "iconPath": null,
+                        "iconSize": null,
+                        "values": null,
+                        "selected": null,
+                        "planCategoryPurpose": null,
+                        "optionId": null,
+                        "multiValue": null,
+                        "value@Delete": null
+                    },
+                    {
+                        "layout": null,
+                        "label": "Price Highest to Lowest",
+                        "value": "Price Highest to Lowest",
+                        "showIcon": false,
+                        "iconPath": null,
+                        "iconSize": null,
+                        "values": null,
+                        "selected": null,
+                        "planCategoryPurpose": null,
+                        "optionId": null,
+                        "multiValue": null,
+                        "value@Delete": null
+                    },
+                    {
+                        "layout": null,
+                        "label": "Price Lowest to Highest",
+                        "value": "Price Lowest to Highest",
+                        "showIcon": false,
+                        "iconPath": null,
+                        "iconSize": null,
+                        "values": null,
+                        "selected": null,
+                        "planCategoryPurpose": null,
+                        "optionId": null,
+                        "multiValue": null,
+                        "value@Delete": null
+                    }
+                ],
+                "label": "Sort"
+            }
+        ],
+        "filterPreset": []
+    },
+    "compare_bar": {
+        "layout": null,
+        "modalTitle": "Device comparison",
+        "modalIntroTitle": "Comparing ||n|| devices",
+        "modalIntroDetails": "<p>We have put the devices you’ve chosen into the table below. Save or share this comparison in case you need more time.</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+        "deviceListTitle": "Devices",
+        "specificationListTitle": "Specifications",
+        "planPricingListTitle": "Pricing",
+        "placeHolderText": "Device ||n||",
+        "placeHolderImg": {
+            "src": {
+                "original": "/content/dam/optus/images/logos/phone-placeholder.png/renditions/version-1578623007001/original.png",
+                "large": "/content/dam/optus/images/logos/phone-placeholder.png/renditions/version-1578623007001/original.png",
+                "medium": "/content/dam/optus/images/logos/phone-placeholder.png/renditions/version-1578623007001/original.png",
+                "small": "/content/dam/optus/images/logos/phone-placeholder.png/renditions/version-1578623007001/original.png"
+            },
+            "fileReference": "/content/dam/optus/images/logos/phone-placeholder.png",
+            "alt": "Image of Google Pixel 3",
+            "mobileReverse": false,
+            "wrapperClass": "cq-dd-image"
+        },
+        "compareButtonText": "Compare",
+        "viewDetailText": "View Details",
+        "title": " phone(s) added"
+    }
+}
